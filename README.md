@@ -1,7 +1,18 @@
 # Cloud_Engineer_Techgrounds
 
-This was an intensive 4 months fulltime course which helped me to learn and practice the fundamentals needed to be a cloud Engineer.
+This was an intensive fulltime course which helped me to learn and practice the fundamentals needed to be a cloud Engineer.
+Topics like:
 
-The Topics that were covered were given as an exercise, so that I can figure things out on my own. This also gave me the opprotunities to discover and ask for help when I'm stuck.
+1.Linux
 
-Besides the exercises, I passed my Az-900 Fundamentals and finally I did a project to setup Infrastructure as a code with Bicep.
+2.Networking
+
+3.Security
+
+4.Azure 900
+
+5.Infra-as-a-code project with Azure Bicep and Powershell
+
+The Topics above were provided as an exercise, so that I can figure things out on my own. This also gave me the opprotunities to discover and ask for help when I'm stuck.
+
+
