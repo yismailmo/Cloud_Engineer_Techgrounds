@@ -65,7 +65,7 @@ That customers only pay when they use resources, as such they have no upfront co
 
 Not much because i was familiar with most of the terms from AWS CCP.
 
-# Sources
+# Sources:
 
 https://www.microsoftpressstore.com/articles/article.aspx?p=2979073
 

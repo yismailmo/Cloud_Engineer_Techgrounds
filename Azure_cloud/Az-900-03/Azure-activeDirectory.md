@@ -73,7 +73,7 @@ Then after that you can create users and groups.
 
 3. Integrate on-premises applications
 
- # Sources
+ # Sources:
 
  https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis
 

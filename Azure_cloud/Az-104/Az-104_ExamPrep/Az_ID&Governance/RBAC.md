@@ -2,6 +2,8 @@ Manage access control:
 
 1.  Create custom role-based access control (RBAC) and Azure AD roles
 
+- Azure role-based access control (Azure RBAC) enables you to create roles that define access permissions.
+
 **How do I manage Azure RBAC permissions?**
 
 You manage access permissions on the Access control (IAM) pane in the Azure portal. This pane shows who has access to what scope and what roles apply. You can also grant or remove access from this pane.
